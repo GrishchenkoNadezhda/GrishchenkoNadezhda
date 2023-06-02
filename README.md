@@ -92,9 +92,6 @@
 
 --- -->
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/nadi2612/badges/large)
 
 ### ⚙️ GitHub статистика:
 
@@ -109,4 +106,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nadi2612)
