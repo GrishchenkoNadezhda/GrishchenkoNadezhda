@@ -11,11 +11,9 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :telescope: Прошла курсы в Академии Top.
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
-
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :seedling: Завершила курсы на образовательной платформе Stepik!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-GrishchenkoNadezhda-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/GrishchenkoNadezhda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:grishchenkonadezhda154@gmail.com)
 
