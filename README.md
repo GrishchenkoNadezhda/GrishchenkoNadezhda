@@ -1,7 +1,7 @@
 
 <h1> Привет, меня зовут Надежда!</h1>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Привет, меня зовут Надежда!" />
+  <img src="https://raw.githubusercontent.com/martonlederer/nadi2612/master/name.svg" alt="Привет, меня зовут Надежда!" />
 </h1>
 ---
 
