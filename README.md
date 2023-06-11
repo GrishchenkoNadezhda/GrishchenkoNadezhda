@@ -1,6 +1,6 @@
 
 <h1 align="center">
-https://nadi2612.github.io/gradient/
+<img src="https://nadi2612.github.io/gradient/" width="300px"
 </h1>
 
 ---
