@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/nadi2612/gradient/tree/d367a3e00eda4a721fa95905ea06fad4e89b6e47" alt="Grishchenko Nadezhda" />
+  <img src="https://nadi2612.github.io/gradient/" alt="Grishchenko Nadezhda" />
 </h1>
 
 ---
