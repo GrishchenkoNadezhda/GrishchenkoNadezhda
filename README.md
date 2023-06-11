@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href="https:nadi2612.github.io/gradient/"></a>.
+  <a href="https://nadi2612.github.io/gradient/"></a>.
 </h1>
 
 ---
