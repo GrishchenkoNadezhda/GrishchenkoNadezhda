@@ -1,7 +1,9 @@
 
 <h1 align="center">
-<a href="https://nadi2612.github.io/gradient.svg/" width="300px"></a>
+  <img src="https://github.com/nadi2612/gradient.git" alt="Привет, меня зовут Надежда!"/>
 </h1>
+
+
 
 ---
 
