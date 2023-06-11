@@ -1,9 +1,8 @@
 
 <h1> Привет, меня зовут Надежда!</h1>
-<style>
- h1 {
- filter: drop-shadow(3px 3px 10px turquoise)}
-</style>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Привет, меня зовут Надежда!" />
+</h1>
 ---
 
 ### 👩‍💻: Обо мне:
