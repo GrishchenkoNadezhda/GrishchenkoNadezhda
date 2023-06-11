@@ -1,6 +1,9 @@
 
-<h1><style>filter: drop-shadow(3px 3px 10px turquoise) Привет, меня зовут Надежда!</style></h1>
-
+<h1> Привет, меня зовут Надежда!</h1>
+<style>
+ h1 {
+ filter: drop-shadow(3px 3px 10px turquoise)}
+</style>
 ---
 
 ### 👩‍💻: Обо мне:
