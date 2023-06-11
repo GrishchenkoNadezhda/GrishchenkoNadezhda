@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/nadi2612/gradient.git" alt="Привет, меня зовут Надежда!"/>
+  <img src="https://github.com/nadi2612/gradient.git" alt="Привет, меня зовут Надежда!"
 </h1>
 
 
