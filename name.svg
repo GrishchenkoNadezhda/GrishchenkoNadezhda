@@ -14,7 +14,7 @@
 				  }
 				}
         .snowflake {
-          color: #f5dd08;
+          color: #f51008;
           font-size: 2em;
           font-family: Arial;
           text-shadow: 0 0 1px #000;
@@ -39,6 +39,8 @@
 				  text-align: center;
 				  background: -webkit-linear-gradient(right, #ff00dd,#042eec);
 				  background: linear-gradient(270deg, #ff00eaf6 #2a07f3);
+				  text-shadow: 30px 30px 30px #e0d421;
+				  -webkit-text-stroke: 1px #2a07f3;
 				  background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
