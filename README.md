@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/nadi2612/nadi2612/blob/7790ab1337bbdb763de0970da510100c76ea8b77/name.svg" alt="Привет, меня зовут Надежда!"
+  <img src="https://github.com/nadi2612/nadi2612/blob/7790ab1337bbdb763de0970da510100c76ea8b77/name.svg" alt="Привет, меня зовут Надежда! "
 </h1>
 
 
